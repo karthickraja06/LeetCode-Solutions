@@ -4,9 +4,8 @@ class Solution {
         if(n <= 1){
             return;
         }
-        System.out.println(n);
+
         helper(n/2);
-        System.out.println(mul + "-" + n);
         mul *= mul;
         if(n%2 != 0){
            mul *= c;
