@@ -10,7 +10,6 @@ class Solution {
         if(n%2 != 0){
            mul *= c;
         }
-
     }
     public double myPow(double x, long n) {
         if(n == 0)return 1;
