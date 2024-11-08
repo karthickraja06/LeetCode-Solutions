@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1940-maximum-xor-for-each-query](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [1940-maximum-xor-for-each-query](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 ## Sorting
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1940-maximum-xor-for-each-query](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 ## Recursion
 |  |
 | ------- |
