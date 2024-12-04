@@ -10,12 +10,14 @@
  */
 class Solution {
     public ListNode reverse(ListNode head){
-        if(head == null || head.next == null)return head;
-
-        ListNode newHead = reverse(head.next);
-        head.next.next = head;
-        head.next = null;
-        return newHead; 
+        ListNode prev  = null;
+        while(head != null ){
+            ListNode front = head.next;
+            head.next = prev;
+            prev = head;
+            head = front;
+        }
+        return prev;
     }
     public boolean isPalindrome(ListNode head) {
         if(head == null || head.next==null)return true;
