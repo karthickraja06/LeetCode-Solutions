@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2047-find-a-peak-element-ii](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Recursion
 |  |
 | ------- |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Design
 |  |
 | ------- |
