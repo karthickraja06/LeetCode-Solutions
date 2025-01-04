@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Binary Search
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Sorting
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Recursion
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Design
 |  |
