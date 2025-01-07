@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1524-string-matching-in-an-array](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1524-string-matching-in-an-array](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -350,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
