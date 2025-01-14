@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Two Pointers
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Binary Search
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
