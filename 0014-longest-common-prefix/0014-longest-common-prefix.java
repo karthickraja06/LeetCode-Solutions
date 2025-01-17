@@ -4,7 +4,6 @@ class Solution {
         if(pref == "")return false;
         for(int i = 1;i < n;i++){
             if(arr[i].length() - 1 < e)return false;
-        // System.out.println(pref + " " + arr[i].substring(s, e + 1));
             if(!pref.equals(arr[i].substring(s, e + 1)))return false;
         }
         return true;
@@ -24,7 +23,6 @@ class Solution {
         int l = 0,h = minLen - 1;
         while(l <= h){
             int mid = (l + h)/2;
-                System.out.println(h);
             if(isPrefix(strs,l,mid,n)){
                 l = mid + 1;
             }else{
