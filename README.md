@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0812-rotate-string](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1502-construct-k-palindrome-strings](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
