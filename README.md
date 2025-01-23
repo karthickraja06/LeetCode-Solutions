@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0231-power-of-two) |
