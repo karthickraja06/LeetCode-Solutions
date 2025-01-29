@@ -1,17 +1,18 @@
 class Solution {
     public int countPrimes(int n) {
         if(n == 0 || n == 1)return 0;
-        int res = n - 2; // This is the maximum total possible output
         int[] prime = new int[n + 1];//+1 is to considering zero too
 
-        for(int i = 2; i < n;i++){
+        for(int i = 2; i < Math.sqrt(n);i++){
             if(prime[i] == 0){
-                for(int j = 2;i*j < n;j++){
+                for(int j = i;i*j < n;j++){
                     prime[i * j] = 1;
                 }
-            }else{
-                res--;
             }
+        }
+        int res = 0;
+        for(int i = 2;i < n;i++){
+            if(prime[i] == 0)res++;
         }
         return res;
     }
