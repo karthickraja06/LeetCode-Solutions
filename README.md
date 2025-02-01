@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [0854-making-a-large-island](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0952-word-subsets) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0854-making-a-large-island](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0684-redundant-connection](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -437,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
