@@ -31,11 +31,12 @@ class Solution {
 
         // Forming the final word using the sorted list
         StringBuilder res = new StringBuilder();
-        for(Pair i:freqArr){
-            for(int j = 0;j < i.cnt;j++){
-                res.append(i.ele);
+        for(int i = freqArr.size() - 1;i >= 0;i--){
+            char k = freqArr.get(i).ele;
+            for(int j = 0;j < freqArr.get(i).cnt;j++){
+                res.append(k);
             }
         }
-        return res.reverse().toString();
+        return res.toString();
     }
 }
