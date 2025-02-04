@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2047-find-a-peak-element-ii](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2145-grid-game](https://github.com/karthickraja06/LeetCode-Solutions/tree/master/2145-grid-game) |
