@@ -1,6 +1,5 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        // if(s.length() == 0)return 0;
         int max = 0, l = 0, h = 0;
         int[] occ = new int[95];
         while (h < s.length() && l <= h) {
